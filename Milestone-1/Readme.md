@@ -1,4 +1,4 @@
-Nithin G J-Milestone1
+Nithin-Milestone1
 PrognosAI: AI-Driven Predictive Maintenance System
 📌 Project Objective
 To design and develop an AI-based predictive maintenance system capable of estimating the Remaining Useful Life (RUL) of industrial machinery using multivariate time-series sensor data.

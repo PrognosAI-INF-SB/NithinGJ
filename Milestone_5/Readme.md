@@ -32,7 +32,7 @@ Component	Path
 Trained Model	models_m2/optimized_fd1_milestone4.h5
 Scaler File	models_m2/scaler_fd1_milestone4.save
 Processed Test Data	processed/fd1_test_ws30.npz
-Streamlit Dashboard Script	app_streamlit_prognosai.py
+Streamlit Dashboard Script	streamlit run dashboard.py
 🎨 Dashboard UX & Visual Components
 
 The dashboard layout includes:
@@ -83,7 +83,7 @@ Test data path
 match the locations defined in the app script.
 
 3️⃣ Run the Dashboard
-streamlit run app_streamlit_prognosai.py
+streamlit run dashboard.py
 
 4️⃣ Open in Browser
 
